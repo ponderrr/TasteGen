@@ -4,8 +4,8 @@
  *
  * @format
  */
-
 import React from 'react';
+import 'nativewind';
 import type {PropsWithChildren} from 'react';
 import {
   SafeAreaView,
